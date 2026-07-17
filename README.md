@@ -1,6 +1,6 @@
 # Monkeytype Stats
 
-Last updated: Fri Jul 17 01:22:06 UTC 2026
+Last updated: Fri Jul 17 01:35:16 UTC 2026
 
 ```json
-{"message":"ApeKey is inactive","data":{"uid":""}}```
+{"message":"Personal stats retrieved","data":{"_id":"6a596cfa83b263bd0c1ca542","completedTests":21,"startedTests":22,"timeTyping":1235.8999999999999}}```
